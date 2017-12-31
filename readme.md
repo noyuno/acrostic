@@ -6,6 +6,22 @@ A software to make it possible to read Japanese horizontal writing text vertical
 
 ## Requirements
 
+### System
+
+#### Requires
+
+| OS         | Linux              |
+|------------|--------------------|
+| RAM        | 8GB                |
+| CPU        | 64bit architecture |
+
+#### Recommends
+
+| Distribution | Arch Linux               |
+|--------------|--------------------------|
+| RAM          | 16GB                     |
+| CPU          | greater than low-end CPU |
+
 ### Golang
 
 [The Go Programming Language](https://golang.org/)
