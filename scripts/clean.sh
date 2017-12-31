@@ -1,14 +1,13 @@
 #!/bin/bash -e
 
 clean() {
-    pushd $1
-        make clean
-    popd
+    if [ -e "$1" ]; then
+        pushd $1
+            make clean
+        popd
+    fi
 }
 
-clean slide
-clean thesis
-clean abstract
 clean third-party/juman-7.01
 clean third-party/jumanpp-1.02
 clean third-party/kakasi-2.3.6
