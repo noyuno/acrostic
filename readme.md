@@ -116,6 +116,11 @@ Arch Linux: `pacman -S go`
 
     ./scripts/sample1.sh
 
+input text:「　パックの気密性などを高めて、ご飯の味や品質を長持ちさせ、日本産米の輸出拡大につなげる。」
+keyword: 「みかん」
+
+output text:
+
 ~~~
 　パックのきみ
 つ性などをたか
