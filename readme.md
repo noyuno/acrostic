@@ -36,6 +36,10 @@ Both JUMAN and JUMAN++ are required.
 This repository does not contain any third-party source codes/databases.
 Please get them yourself.
 
+JUMANとJUMAN++の両方が必要です．
+このリポジトリにはサードパーティ製のソースコードおよびデータベースが含まれていません．
+それらはご自身で取得してください．
+
 #### JUMAN 7.01
 
 [JUMAN - KUROHASHI-KAWAHARA LAB](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
