@@ -26,10 +26,6 @@ go get github.com/constabulary/gb/...
 gb vendor restore
 ~~~
 
-~~~
-jq '.[]' <vendor/manifest|jq -r '.[].importpath'
-~~~
-
 ### Juman & KNP
 
 Both JUMAN and JUMAN++ are required.
