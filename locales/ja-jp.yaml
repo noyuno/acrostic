@@ -1,0 +1,145 @@
+All keywords not found. Abort.:
+  other: すべてのキーワードが見つかりませんでした．中止．
+Do you want to save it?:
+  other: 上を保存しますか?
+Phrase patterns:
+  other: 文節パターン
+Type Enter key to continue:
+  other: Enterキーで続行します
+analyze_result:
+  other: 解析結果
+arrange process time:
+  other: 文章作成処理時間
+case analysis patterns:
+  other: 格解析パターン
+exceeds-progress-bar:
+  other: パターン数({{.L}})はプログレスバー({{.P}})を超えているので，一部省略します．
+f-all-word-length:
+  other: すべての長さの単語を拾う
+f-case-analysis:
+  other: 格解析をする
+f-code:
+  other: 見つからなかったときは1を返す
+f-confirm:
+  other: 処理前にユーザによる確認を行う
+f-deep-copy:
+  other: BasicPhrase以下の構造体もコピーする(メモリ対策)
+f-extension-structure:
+  other: 拡張構造を有効にする(未実装)
+f-gc:
+  other: GCするヒープサイズ(ただし，WipeOutではこれに関わらずかならずGCする)
+f-height:
+  other: 最大行(未指定であれば(文字数/Width*2))
+f-interactive:
+  other: インタラクティブ（対話的）に実行する
+f-juman-command:
+  other: "JUMAN コマンド"
+f-juman-directory:
+  other: JUMANディレクトリ
+f-kakasi-command:
+  other: "KAKASI コマンド"
+f-kana:
+  other: かなを使用する
+f-kana-mode:
+  other: かなモード
+f-kanji:
+  other: 漢字を使う
+f-keyword:
+  other: "キーワードファイル名"
+f-knp-command:
+  other: KNPのコマンド
+f-knp-only:
+  other: KNPの実行だけして終了する
+f-language:
+  other: 言語
+f-match-length:
+  other: キーワードの文字数と出力文の行数を一致させる
+f-max:
+  other: 行の最大幅(-1でWidthと同じにする)
+f-one:
+  other: 一つ見つけたら終了する
+f-only-keywords:
+  other: キーワード限定
+f-out:
+  other: "出力ファイル名"
+f-output-each:
+  other: パターンごとに出力する
+f-parallel:
+  other: 並列処理で計算する
+f-paraphrase:
+  other: 言い換えデータベースのファイル名(内容はcsv)
+f-pattern-size:
+  other: 文パターンの最大サイズ
+f-polite:
+  other: 丁寧語を使うかどうか
+f-pproof:
+  other: pprppfを使う
+f-print-kana:
+  other: 類義語画面でかなも表示する
+f-progress:
+  other: 進捗表示
+f-quiet:
+  other: WARNING出力を無効にする
+f-skip-same-length:
+  other: 基本句の類義語Aの文字数がその基本句の他の類義語の文字数と同じで，すでに処理されているときは，Aの探索を省略する
+f-swap:
+  other: 文を入れ替えるかどうか（レシートなどの箇条書きに有用）
+f-synonyms:
+  other: WordNetを使って類語で言い換える
+f-synonyms-jpn-only:
+  other: 類語検索結果は日本語だけとする
+f-synonyms-verb:
+  other: 動詞の類義語を使うかどうか
+f-synset:
+  other: SynsetListTextが含まれているファイル
+f-synset-string:
+  other: 類義語の概念を示すリスト
+f-text:
+  other: "テキストファイル名"
+f-verbose:
+  other: INFO出力を有効にする
+f-verbosely:
+  other: DEBUG出力を有効にする
+f-width:
+  other: 行の幅
+f-wipeout:
+  other: ArrangeMatrixで結果を書き出して一掃するかどうか（メモリ使用量対策）
+f-wipeout-length:
+  other: ArrangeMatrixで結果を書き出して一掃するタイミング
+f-word-pattern:
+  other: 類義語パターンの最大サイズ
+f-wordnet-link:
+  other: WordNetで検索するリンクを指定
+f-wordnetdb:
+  other: WordNetデータベースのファイル名
+filename [default %v]:
+  other: ファイル名 [既定 %v]
+keyword-not-found:
+  other: 　{{.Kpos}}番目のキーワード'{{.K}}'の文字'{{.C}}'は，作成した文中に現れないためこのキーワードをスキップします．
+not found:
+  other: なし
+not found any patterns:
+  other: どのパターンでも見つかりませんでした
+number:
+  other: 番号
+origin:
+  other: 辞書形
+saved:
+  other: 保存しました
+select above %v items?:
+  other: 上の %v個を選択しますか?
+synonyms:
+  other: 類義語
+synonyms-description:
+  other: 引数に '--synonyms-string 記号等' または '-s ファイル名' を指定することで，次回以降の入力を省略できます．
+synset:
+  other: synset
+total %v results found:
+  other: 合計 %v 件
+unable to create file:
+  other: ファイルを作成できません
+width:
+  other: 幅
+f-mecab-command:
+    other: MeCabコマンド
+

@@ -1,0 +1,10 @@
+vendor/*
+glide.lock
+doxygen
+main
+output/*
+pkg/*
+bin/*
+third-party/*
+tags
+

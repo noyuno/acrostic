@@ -1,0 +1,105 @@
+synonyms-description:
+    other: If you specify the following text as argument '-symonyms-string TEXT' or '-s FILE', you can omit next inputs.
+keyword-not-found: 
+    other: Character '{{.C}}' in keyword '{{.K}}'({{.Kpos}}) not found in created sentences. skip.
+exceeds-progress-bar: 
+    other: The number of patterns({{.L}}) exceeds progress bar({{.P}}). Some are omitted.
+f-keyword: 
+    other: keyword file
+f-text: 
+    other: text file
+f-out: 
+    other: out file
+f-width:
+    other: width
+f-max: 
+    other: max width (-1 equals to width)
+f-height: 
+    other: height (-1 equal to (text/width*2))
+f-juman-command: 
+    other: JUMAN command
+f-knp-command: 
+    other: KNP command
+f-kakasi-command: 
+    other: KAKASI command
+f-knp-only: 
+    other: only KNP output
+f-case-analysis: 
+    other: use case analysis
+f-synonyms: 
+    other: use synonyms
+f-wordnetdb: 
+    other: wordnet database filename
+f-juman-directory: 
+    other: JUMAN directory
+f-synonyms-jpn-only: 
+    other: output synonyms only japanese
+f-synset: 
+    other: synset selector filename
+f-synset-string: 
+    other: synset selector string
+f-interactive: 
+    other: run interactive
+f-skip-same-length: 
+    other: skip same synonyms length as basic phrase
+f-verbose: 
+    other: output INFO log
+f-verbosely: 
+    other: output DEBUG log
+f-quiet: 
+    other: supress WARNING log
+f-print-kana: 
+    other: print kana
+f-kana-mode: 
+    other: select kana mode and fallbacks (juman, mecab, kakasi)
+f-wordnet-link: 
+    other: search wordnet link
+f-paraphrase: 
+    other: paraphrase CSV filename
+f-parallel: 
+    other: parallel processing
+f-confirm:
+    other: confirm before processing
+f-pproof: 
+    other: use pproof
+f-extension-structure: 
+    other: enable extension structure
+f-deep-copy: 
+    other: copy all structures under BasicPhrase
+f-output-each: 
+    other: output each pattern
+f-wipeout-length: 
+    other: threshold to wipe out results of ArrangeMatrix
+f-wipeout: 
+    other: wipe out results of ArrangeMatrix
+f-synonyms-verb: 
+    other: search verb synonyms
+f-polite: 
+    other: use polite
+f-match-length: 
+    other: match length of keyword and output sentences
+f-pattern-size: 
+    other: maximum size of sentence order patterns
+f-swap: 
+    other: swap sentences (e.g. recept)
+f-gc: 
+    other: heap size to GC
+f-progress: 
+    other: show progress bar
+f-language: 
+    other: language
+f-one: 
+    other: outputs only one and exit
+f-code: 
+    other: return 1 when no results found
+f-word-pattern: 
+    other: each word pattern limit
+f-only-keywords: 
+    other: only keywords included in synonyms
+f-all-word-length: 
+    other: include all word length
+f-kanji: 
+    other: use Kanji
+f-kana: 
+    other: use Kana
+
