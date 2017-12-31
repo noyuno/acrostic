@@ -187,7 +187,11 @@ output text:
         WordNetで検索するリンクを指定 (default "synonyms,hype")
 ~~~
 
+`-i` options can be select paraphrases of input text phrases.
+
 Type `./bin/main --help` to show options' descriptions.
+
+`-i` オプションで入力テキストの単語の言い換え（類義語，上位語）を選択できます．
 
 ## Edit
 
@@ -240,7 +244,7 @@ require direnv
 
 ## How it works
 
-First, generate paraphrases of phrases of input text.
+First, generate paraphrases of input text phrases.
 Second, generate sentence patterns from dependency analysis and case analysis.
 Last, verify generated sentence pattern can be read vertically.
 
