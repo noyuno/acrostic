@@ -1,4 +1,4 @@
-vendor/*
+vendor/src/*
 glide.lock
 doxygen
 main
