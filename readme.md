@@ -14,13 +14,14 @@ A software to make it possible to read Japanese horizontal writing text vertical
 |------------|--------------------|
 | RAM        | 8GB                |
 | CPU        | 64bit architecture |
+| Storage    | least 40GB free    |
 
 #### Recommends
 
-| Distribution | Arch Linux               |
-|--------------|--------------------------|
-| RAM          | 16GB                     |
-| CPU          | greater than low-end CPU |
+| Distribution | Arch Linux   |
+|--------------|--------------|
+| RAM          | 16GB         |
+| CPU          | high-end CPU |
 
 ### Golang
 
@@ -148,6 +149,8 @@ output text:
 ~~~
 
 ## Common usage
+
+`./bin/main`
 
 ~~~
   --confirm
