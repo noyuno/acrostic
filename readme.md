@@ -126,7 +126,6 @@ Ubuntu: `apt install golang`
 Arch Linux: `pacman -S go`
 
     gb build all -f
-    ./bin/main -t data/4.sentence -k data/3.keyword
 
 ## Run sample
 
