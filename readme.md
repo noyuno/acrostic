@@ -10,16 +10,18 @@ A software to make it possible to read Japanese horizontal writing text vertical
 
 #### Requires
 
-| OS         | Linux              |
+| Name       | Value              |
 |------------|--------------------|
+| OS         | Linux              |
 | RAM        | 8GB                |
 | CPU        | 64bit architecture |
 | Storage    | least 40GB free    |
 
 #### Recommends
 
-| Distribution | Arch Linux   |
+| Name         | Value        |
 |--------------|--------------|
+| Distribution | Arch Linux   |
 | RAM          | 16GB         |
 | CPU          | high-end CPU |
 
