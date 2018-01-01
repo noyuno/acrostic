@@ -29,12 +29,12 @@ A software to make it possible to read Japanese horizontal writing text vertical
 
 - Golang v1.9.2
     - [gb](https://getgb.io/)
-    - github.com/kr/pty
-    - github.com/mattn/go-sqlite3
-    - github.com/nicksnyder/go-i18n/i18n
-    - github.com/noyuno/lgo
-    - github.com/ogier/pflag
-    - github.com/sirupsen/logrus
+    - [github.com/kr/pty](github.com/kr/pty)
+    - [github.com/mattn/go-sqlite3](github.com/mattn/go-sqlite3)
+    - [github.com/nicksnyder/go-i18n/i18n](github.com/nicksnyder/go-i18n/i18n)
+    - [github.com/noyuno/lgo](github.com/noyuno/lgo)
+    - [github.com/ogier/pflag](github.com/ogier/pflag)
+    - [github.com/sirupsen/logrus](github.com/sirupsen/logrus)
 
 ~~~
 export GOPATH=$HOME/go
